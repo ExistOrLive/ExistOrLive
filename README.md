@@ -10,6 +10,8 @@
 
 [ZLGithubClient](https://github.com/MengAndJie/GithubClient)
 
+基于[Github REST API V3](https://docs.github.com/en/rest)开发的iOS客户端。
+
 <div><a href="https://apps.apple.com/cn/app/zlgithubclient/id1498787032"><img src="https://gitee.com/existorlive/exist-or-live-pic/raw/master/appstoredownload.png" width=150></a></div>
 
 ## My Cats
