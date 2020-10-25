@@ -2,6 +2,8 @@
 
 ## 汪 iOS Developer
 
+![](https://github-readme-stats.vercel.app/api?username=ExistOrLive&show_icons=true&count_private=true)
+
 ## Note 
 
 [DocumentForLearning](https://github.com/ExistOrLive/DocumentForLearning)
