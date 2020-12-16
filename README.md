@@ -25,5 +25,3 @@
 <div><img src="https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3738.JPG"></div>
 
 <div><img src="https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3739.JPG"></div>
-
-[123](18351927991)
