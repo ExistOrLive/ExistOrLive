@@ -12,10 +12,10 @@
 
 ## My App
 
-基于[Github REST API V3](https://docs.github.com/en/rest)开发的iOS客户端。
+Github iOS Client based on [Github REST V3 API](https://docs.github.com/en/rest) and [GraphQL V4 API](https://docs.github.com/en/free-pro-team@latest/graphql)
 
-<a href="https://github.com/MengAndJie/GithubClient">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MengAndJie&repo=GithubClient" />
+<a href="https://github.com/ExistOrLive/GithubClient">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExistOrLive&repo=GithubClient" />
 </a>
 
 <div><a href="https://apps.apple.com/cn/app/zlgithubclient/id1498787032"><img src="https://gitee.com/existorlive/exist-or-live-pic/raw/master/appstoredownload.png" width=150></a></div>
