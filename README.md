@@ -2,7 +2,7 @@
 
 ## 汪 iOS Developer
 
-![](https://github-readme-stats.vercel.app/api?username=ExistOrLive&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ExistOrLive&show_icons=true&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000)
 
 ## Note 
 
