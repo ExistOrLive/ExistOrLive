@@ -2,12 +2,12 @@
 
 ## 汪 iOS Developer
 
-![](https://github-readme-stats.vercel.app/api?username=ExistOrLive&show_icons=true&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000)
+![](https://github-readme-stats.vercel.app/api?username=ExistOrLive&show_icons=true&count_private=true&bg_color=00000000)
 
 ## Note 
 
 <a href="https://github.com/ExistOrLive/DocumentForLearning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExistOrLive&repo=DocumentForLearning&icon_color=CE1D2D&text_color=718096&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExistOrLive&repo=DocumentForLearning&bg_color=00000000" />
 </a>
 
 ## My App
@@ -15,7 +15,7 @@
 Github iOS Client based on [Github REST V3 API](https://docs.github.com/en/rest) and [GraphQL V4 API](https://docs.github.com/en/free-pro-team@latest/graphql)
 
 <a href="https://github.com/ExistOrLive/GithubClient">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExistOrLive&repo=GithubClient&icon_color=CE1D2D&text_color=718096&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExistOrLive&repo=GithubClient&bg_color=00000000" />
 </a>
 
 - [App Store Release](https://apps.apple.com/app/gorillas/id1498787032)
